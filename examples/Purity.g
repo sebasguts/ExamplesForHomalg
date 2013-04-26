@@ -110,7 +110,8 @@
 ##  gap> IsIdenticalObj( Range( m ), W );
 ##  true
 ##  gap> Source( m );
-##  <A left module presented by 12 relations for 9 generators (locked)>
+##  <A non-pure rank 2 left module presented by 12 relations for 9 generat\
+##  ors (locked)>
 ##  gap> Display( last );
 ##  0,  0,   x, -y,0,1, 0,    0,  0,
 ##  x*y,-y*z,-z,0, 0,0, 0,    0,  0,

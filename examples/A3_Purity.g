@@ -95,7 +95,8 @@
 ##  gap> IsIdenticalObj( Range( m ), N );
 ##  true
 ##  gap> Source( m );
-##  <A left module presented by 6 relations for 3 generators (locked)>
+##  <A non-pure grade 1 left module presented by 6 relations for 3 generat\
+##  ors (locked)>
 ##  gap> Display( last );
 ##  Dx,1/3,-1/9*x,
 ##  0, Dy, 1/6,   
